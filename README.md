@@ -1,4 +1,4 @@
-# PigGame
+# PigGame CODE IN MASTER BRANCH
 PigGame dice game.
 
 The structure was created using HTML, then the styling was created using CSS.  The game functionality was creating by manipulating the DOM elements using Javascript.
